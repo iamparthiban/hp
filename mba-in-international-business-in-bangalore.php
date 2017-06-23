@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>MBA in International Business | Apply for Admission Today in Bangalore</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Study MBA in International Business program at St. Hopkins College in Bangalore, It offers an International internship with 100% placements. Apply Now.">
+    <meta name="keywords" content="MBA in international business , mba in international business in bangalore ,mba in IB, mba with international exposure "/>
+    <meta name="author" content="Hopkins">
+    <link rel="canonical" href="http://www.hopkinscollege.com/mba-in-international-business-in-bangalore.php" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.hopkinscollege.com/mba-in-international-business-in-bangalore.php" />
+    <meta property="og:site_name" content="http://www.hopkinscollege.com/" />
+    <meta property="og:title" content="MBA in International Business | Apply for Admission Today in Bangalore" />
+    <meta property="og:description" content="Study MBA in International Business program at St. Hopkins College in Bangalore, It offers an International internship with 100% placements. Apply Now."
+    />
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-15839499-1']);
+        _gaq.push(['_setDomainName', 'hopkinscollege.com']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <script type="text/javascript">
+        var switchTo5x = true;
+    </script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">
+        stLight.options({ publisher: "4d399891-042e-463a-8101-71138fdc39cc", doNotHash: false, doNotCopy: false, hashAddressBar: false });
+    </script>
+    <?php 
+        include('inc-files/css.php');
+        include('inc-files/js.php');
+    ?>
+</head>
+<body class="new_des">
+    <section class="fullwrapper">
+        <?php include('topbar.php');?>
+        <section class="wrapper">
+            <?php include('header.php');?>
+            <section class="middlecontent mid_content">
+                <h3><a href="applynow.php">Admission Open For 2017 Batch</a></h3>
+                <div class="content content1 banner_content">
+                    <h3>MBA IN INTERNATIONAL BUSINESS</h3>
+                    <p>IB- Masters in International Business </p>
+                </div>                
+            </section>
+            <section class="middlewrapper middlewrapper1 mid_wrap">
+                <div class="middlecontentbar middlecontentbar1">
+                    <div class="bredcomes">
+                        <p>
+                            <a href="index.php">Home</a> 
+                            <img title="<?php echo $INDEX2_TITLE ?>" alt="<?php echo $INDEX2_TITLE ?>" src="images/arwrrpng.png" /> 
+                            <a href="#">PG Courses</a>
+                            <img title="<?php echo $INDEX2_TITLE ?>" alt="<?php echo $INDEX2_TITLE ?>" src="images/arwrrpng.png" />
+                            <a href="#" class="active">MBA Courses/Program</a>
+                        </p>
+                    </div>
+                    <div class="fullcontent">
+                        <div class="leftcontent">
+                            <h1 class="h2-1">MBA in International Busines</h1>
+                            <h2>Be the hero of your career by pursuing MBA</h2>                            
+                            <p>
+                                MBA in International Business has cut a specialty for itself among the best profession opportunity reviews in the nation. It has opened up assorted roads of accomplishment for the understudies in a most recent couple of years. The lovely city of Bangalore has substantiated itself as a world-class range of profession open doors for the understudies the nation over. This city additionally has served accomplishment for the worldwide understudies too. With an exquisite approach towards training, the city of Bangalore has presented their name in the national instructive situation. This city is firmly arranged to gadgets city and conveyed an immense region of a chance for worldwide standard business instructions.
+                            </p>
+                            <h2>Worldwide Opportunities for the Students</h2>
+                            <p>
+                                MBA in International Business in Bangalore offers worldwide trade and entry level position open
+                                doors for understudies in a few nations. The typical tasteful insides, benevolent personnel
+                                and staff consolidated with the cutting edge framework compensate for a charming atmosphere
+                                for the understudies alongside amazing environment for learning. The extensive and sufficiently
+                                bright patios and parlor give spaces, where understudies get together for after class collaboration
+                                and recreation. These savvy and propelled procedures of learning have augmented their introductions
+                                towards an advanced time of training and that is too with universal standard open doors.
+                                Bangalore is considered as an epicenter of corporate exercises with the nearness of top worldwide
+                                corporate elements and ventures furthermore celebrated for its metropolitan life. In this
+                                way, it gives the understudies a homogeneous blend of learning and recreation. A large group
+                                of intuitive and vivid social occasions, which is a general component at St. Hopkins MBA
+                                College Bangalore, makes understudies feel that it is a home far from home.
+                            </p>
+                            <h2>Every Semester Brings New Opportunities</h2>
+                            <p>
+                                St. Hopkins MBA College Bangalore Offers &nbsp;University Of Mysore MBA program, and accredited
+                                by NAAC. We are among the top Degree universities /colleges in Bangalore , We are the main
+                                degree college in Bangalore to give International Internship , International Placements ,
+                                Experience a degree program more than ever as both the courses would be educated for all
+                                intents and purposes and guarantee every understudy scores greatest in every semester, As
+                                the resources are IIM alumni's, Corporate mentors. They likewise have actualized an IT organize
+                                framework and a best in class Unified Communication Solution for the college grounds with
+                                the most recent innovation. The Alliance College of Business gives agreeable and all around
+                                designated in settlement to understudies both on-grounds and off-grounds. They give the office
+                                of a meeting specialist to take into account the social insurance and prosperity of the understudies.
+                                The University gives its understudies various chances to co-curricular exercises to enhance
+                                their social advantages. A wrath among understudies at the College, enterprise sports laid
+                                weight on physical wellness, diversions and games, and experience that expect to build their
+                                profitability level and the earth.
+                            </p>
+                            <h2>Specialized in Achieving Career Goals</h2>
+                            <p>
+                                The Career Advancement and Networking cell of St. Hopkins College Bangalore works year-round
+                                in systems administration with industry experts from over different segments. They are constantly
+                                discovered devoted to exhorting understudies on profession alternatives and furnishing them
+                                with the most recent data on industry entry level position and last arrangement openings.
+                                The Career Advancement and Networking cell of St. Hopkins College Bangalore gives 100% help
+                                to Industry Internships and &nbsp;Placements.
+                            </p>                            
+                        </div>
+                        <?php include 'inc-files/right-content.php';?>
+                    </div>
+                </div>
+                <?php include 'inc-files/admission-news.php'; ?>
+            </section>
+        </section>
+        <?php 
+            include 'inc-files/footer.php';
+            include 'inc-files/mobile-menu.php';
+        ?>
+    </section>
+    <div id="slideshow" class="slideshowinner">
+        <img title="<?php echo $INDEX2_TITLE ?>" alt="<?php echo $INDEX2_TITLE ?>" src="images/ug_inner.png" class="active" />
+        <img title="<?php echo $INDEX2_TITLE ?>" alt="<?php echo $INDEX2_TITLE ?>" src="images/ug_inner.png" />
+    </div>
+    <div class="sidebar"><a href="applynow.php">Apply Now</a></div>
+</body>
+</html>
